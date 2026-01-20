@@ -21,7 +21,7 @@
 ### 1. THE COMMAND DASHBOARD
 **[God Power: Omniscience]**
 The central nervous system. Monitor system integrity, encryption status, and recent forensic activity from a unified dashboard.
-![Dashboard](screenshots/CRYPTOHAX-1.jpg)
+![Dashboard](screenshots/CRYPTOHAX-1.png)
 
 ---
 
@@ -30,22 +30,22 @@ The central nervous system. Monitor system integrity, encryption status, and rec
 #### 🧠 Brain Wallet Cracker
 **[God Power: Mind Breaker]**
 Analyze and exploit human-generated passphrases. This module calculates entropy, estimates brute-force time, and tests against dictionary attacks.
-![Brain Wallet](screenshots/CRYPTOHAX-20.jpg)
+![Brain Wallet](screenshots/CRYPTOHAX-20.png)
 
 #### 🧩 Partial Seed Resurrection
 **[God Power: Lazarus Protocol]**
 Recover keys with missing characters or fragments. Define your character set, set the missing length, and let the engine crunch the possibilities.
-![Partial Recovery](screenshots/CRYPTOHAX-19.jpg)
+![Partial Recovery](screenshots/CRYPTOHAX-19.png)
 
 #### 📝 Seed Reconstruction
 **[God Power: Mnemonic Restore]**
 Recover standard BIP-39 phrases with missing words. You provide the fragments; the machine reconstructs the fortune.
-![Seed Recovery](screenshots/CRYPTOHAX-4.jpg)
+![Seed Recovery](screenshots/CRYPTOHAX-4.png)
 
 #### 🎲 Entropy Checker
 **[God Power: The Eye of Providence]**
 Mathematically audit key randomness. Detect backdoors and weak generation methods before they are exploited.
-![Entropy Checker](screenshots/CRYPTOHAX-22.jpg)
+![Entropy Checker](screenshots/CRYPTOHAX-22.png)
 
 ---
 
@@ -54,22 +54,22 @@ Mathematically audit key randomness. Detect backdoors and weak generation method
 #### 🔨 Transaction Fabricator
 **[God Power: The Forger]**
 Manually build raw transactions byte-by-byte. Choose inputs, define outputs, set custom fees (RBF), and sign offline. **Bypass all wallet restrictions.**
-![Transaction Builder](screenshots/CRYPTOHAX-27.jpg)
+![Transaction Builder](screenshots/CRYPTOHAX-27.png)
 
 #### 📡 UTXO Deep-Scan
 **[God Power: Deep Sight]**
 Find "dust" and unspent outputs that standard wallets ignore. If the funds exist, this tool finds them.
-![UTXO Scanner](screenshots/CRYPTOHAX-6.jpg)
+![UTXO Scanner](screenshots/CRYPTOHAX-6.png)
 
 #### 🧊 Block Explorer
 **[God Power: Local Search]**
 Query block heights, transaction hashes, and address balances without ever opening a browser or leaking your IP.
-![Block Explorer](screenshots/CRYPTOHAX-28.jpg)
+![Block Explorer](screenshots/CRYPTOHAX-28.png)
 
 #### 🤝 Multisig Syndicate
 **[God Power: The Treasury]**
 Create and manage complex M-of-N multi-signature setups. Coordinate keys and sign transactions securely.
-![Multisig Manager](screenshots/CRYPTOHAX-15.jpg)
+![Multisig Manager](screenshots/CRYPTOHAX-15.png)
 
 ---
 
@@ -78,22 +78,22 @@ Create and manage complex M-of-N multi-signature setups. Coordinate keys and sig
 #### ₿ Bitcoin Protocol Tools
 **[God Power: Script Master]**
 Advanced script decoding, BIP32 derivation paths, and Satoshi calculations.
-![Bitcoin Tools](screenshots/CRYPTOHAX-11.jpg)
+![Bitcoin Tools](screenshots/CRYPTOHAX-11.png)
 
 #### 💎 Ethereum & EVM Tools
 **[God Power: Gas Logic]**
 Calculate exact gas limits, decode raw transaction data, and manage EIP-712 signatures.
-![Ethereum Tools](screenshots/CRYPTOHAX-12.jpg)
+![Ethereum Tools](screenshots/CRYPTOHAX-12.png)
 
 #### 📜 Smart Contract Terminal
 **[God Power: Puppet Master]**
 Load any contract ABI. Read storage states, execute functions, and deploy contracts directly without a UI.
-![Smart Contracts](screenshots/CRYPTOHAX-16.jpg)
+![Smart Contracts](screenshots/CRYPTOHAX-16.png)
 
 #### 🪙 Token Operations
 **[God Power: Asset Control]**
 Manage ERC-20/BEP-20 tokens. Approve spending, check balances, and decode token transfers.
-![Token Tools](screenshots/CRYPTOHAX-14.jpg)
+![Token Tools](screenshots/CRYPTOHAX-14.png)
 
 ---
 
@@ -102,22 +102,22 @@ Manage ERC-20/BEP-20 tokens. Approve spending, check balances, and decode token 
 #### 🔒 Vault Manager
 **[God Power: Fort Knox]**
 AES-256 encrypted local storage for your keys. You hold the master key. Nothing leaves this bunker.
-![Vault Manager](screenshots/CRYPTOHAX-23.jpg)
+![Vault Manager](screenshots/CRYPTOHAX-23.png)
 
 #### 🔌 Custom RPC Injector
 **[God Power: Stealth Mode]**
 Bypass public nodes. Connect to your own infrastructure to ensure zero-log privacy.
-![Custom RPC](screenshots/CRYPTOHAX-18.jpg)
+![Custom RPC](screenshots/CRYPTOHAX-18.png)
 
 #### 📋 Forensic Audit Log
 **[God Power: Black Box]**
 A complete, immutable history of every action, scan, and generation event performed within the suite.
-![Audit Log](screenshots/CRYPTOHAX-24.jpg)
+![Audit Log](screenshots/CRYPTOHAX-24.png)
 
 #### 🔐 Encryption Suite
 **[God Power: Digital Lock]**
 Encrypt, decrypt, and hash sensitive data using military-grade algorithms.
-![Encryption Tools](screenshots/CRYPTOHAX-10.jpg)
+![Encryption Tools](screenshots/CRYPTOHAX-10.png)
 
 ---
 
@@ -126,27 +126,27 @@ Encrypt, decrypt, and hash sensitive data using military-grade algorithms.
 #### 🏭 Address Generator
 **[God Power: Infinite Mint]**
 Generate thousands of addresses per second across P2PKH, P2SH, and Bech32 standards.
-![Address Generator](screenshots/CRYPTOHAX-3.jpg)
+![Address Generator](screenshots/CRYPTOHAX-3.png)
 
 #### ⚙️ Batch Processor
 **[God Power: Industrial Scale]**
 Execute operations on thousands of targets simultaneously. Bulk scan, bulk generate, bulk validate.
-![Batch Processor](screenshots/CRYPTOHAX-17.jpg)
+![Batch Processor](screenshots/CRYPTOHAX-17.png)
 
 #### 🔢 HEX Analyzer
 **[God Power: Code Breaker]**
 Analyze and decode hexadecimal data streams to understand raw blockchain payloads.
-![HEX Analyzer](screenshots/CRYPTOHAX-29.jpg)
+![HEX Analyzer](screenshots/CRYPTOHAX-29.png)
 
 #### 🏷️ Vanity Generator
 **[God Power: Branding]**
 Grind millions of keys to generate custom wallet addresses starting with your unique prefix.
-![Vanity Generator](screenshots/CRYPTOHAX-21.jpg)
+![Vanity Generator](screenshots/CRYPTOHAX-21.png)
 
 #### 🌐 Multi-Chain Radar
 **[God Power: Universality]**
 Run operations across BTC, ETH, LTC, DOGE, SOL, and XRP simultaneously.
-![Multi-Chain Tools](screenshots/CRYPTOHAX-13.jpg)
+![Multi-Chain Tools](screenshots/CRYPTOHAX-13.png)
 
 ---
 
