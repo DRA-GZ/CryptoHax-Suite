@@ -171,7 +171,7 @@ This repository serves as a verification gallery. To obtain the compiled binary 
 
 ## ⚠️ DISCLAIMER
 **POWER COMMANDS RESPONSIBILITY.**
-This suite provides low-level access to cryptographic primitives. It allows you to manipulate keys, construct raw transactions, and interact with the blockchain at the protocol level. **The developer (DRA-GZ) assumes no liability for lost funds or misuse.**
+This suite provides access to cryptographic primitives. It allows you to manipulate keys, construct raw transactions, and interact with the blockchain at the protocol level. **The developer (DRA-GZ) assumes no liability for lost funds or misuse.**
 
 ---
 
